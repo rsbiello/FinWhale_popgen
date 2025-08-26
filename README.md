@@ -1,6 +1,8 @@
 # FinWhale_popgen
-Git repository for the fin whale project
+Git repository for the fin whale project at the University of Ferrara.
 
-I am currently uploading code used for all analysis. To make sure no sensitive information is uploaded, I am reviewing the code now.
+See below for the preprint:
 
-This will be updated with the link to the publication upon acceptance.
+Biello et al., 2025, One Sea, Different Whales: Genomics Sheds Light on a Small Population of Fin Whales. BioRxiv.
+
+https://www.biorxiv.org/content/10.1101/2025.06.16.659691v1.abstract
